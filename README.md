@@ -9,6 +9,8 @@ Have a Login page and use cookies to check and remember user.
 Allowed user to submit .glb .gltf or .mmd and .zip file and unzip automatically.
 
 #to setup 
+Mysql run inst.sql 
+
 have to set up ngnix to Map your disks to network ports. 
 
 
